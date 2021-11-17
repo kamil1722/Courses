@@ -1,0 +1,204 @@
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\appsettings.json
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.exe
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.deps.json
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.runtimeconfig.json
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.runtimeconfig.dev.json
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\ref\Courses.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.Views.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Courses.Views.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.csprojAssemblyReference.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.AssemblyInfoInputs.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.AssemblyInfo.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.csproj.CoreCompileInputs.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.RazorAssemblyInfo.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.RazorAssemblyInfo.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\staticwebassets\Courses.StaticWebAssets.Manifest.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\staticwebassets\Courses.StaticWebAssets.xml
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\scopedcss\bundle\Courses.styles.css
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.TagHelpers.input.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.TagHelpers.output.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.RazorCoreGenerate.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.RazorTargetAssemblyInfo.cache
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.RazorTargetAssemblyInfo.cs
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.Views.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.csproj.CopyComplete
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\ref\Courses.dll
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.pdb
+C:\Users\User_Kamil\Desktop\Тестовое\Курсы\Courses\Courses\obj\Debug\net5.0\Courses.genruntimeconfig.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\appsettings.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.exe
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.deps.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.runtimeconfig.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.runtimeconfig.dev.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\ref\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.Views.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Courses.Views.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.csproj.AssemblyReference.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.AssemblyInfoInputs.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.AssemblyInfo.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.csproj.CoreCompileInputs.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.RazorAssemblyInfo.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.RazorAssemblyInfo.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\staticwebassets\Courses.StaticWebAssets.Manifest.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\staticwebassets\Courses.StaticWebAssets.xml
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\scopedcss\bundle\Courses.styles.css
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.TagHelpers.input.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.TagHelpers.output.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.RazorCoreGenerate.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.RazorTargetAssemblyInfo.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.RazorTargetAssemblyInfo.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.Views.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.csproj.CopyComplete
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\ref\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\obj\Debug\net5.0\Courses.genruntimeconfig.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\appsettings.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.exe
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.deps.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.runtimeconfig.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.runtimeconfig.dev.json
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\ref\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.Views.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Courses.Views.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.csproj.AssemblyReference.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.AssemblyInfoInputs.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.AssemblyInfo.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.csproj.CoreCompileInputs.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.RazorAssemblyInfo.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.RazorAssemblyInfo.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\staticwebassets\Courses.StaticWebAssets.Manifest.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\staticwebassets\Courses.StaticWebAssets.xml
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\scopedcss\bundle\Courses.styles.css
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.TagHelpers.input.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.TagHelpers.output.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.RazorCoreGenerate.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.RazorTargetAssemblyInfo.cache
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.RazorTargetAssemblyInfo.cs
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.Views.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.csproj.CopyComplete
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\ref\Courses.dll
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.pdb
+C:\Users\User_Kamil\source\repos\Courses\Courses\Visual Studio\obj\Debug\net5.0\Courses.genruntimeconfig.cache
