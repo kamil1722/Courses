@@ -40,18 +40,18 @@ namespace Courses.Models
             ViewBag.Json = JsonConvert.SerializeObject(json);
             if (SelectGenre != null)
             {
-                ViewBag.Json = await Task.Run(() => JsonConvert.SerializeObject(myJson().
-                   Where(x=>x.subParent == "27")));
+                ViewBag.Json = await Task.Run(() => JsonConvert.SerializeObject(json.
+                   Where(x=>x.genre == SelectGenre)));
             }
             if (SelectSubjects != null)
             {
-                //ViewBag.Json = await Task.Run(() => JsonConvert.SerializeObject(json.
-                //  Where(x => x.subjects == SelectSubjects.Select(x=>x.Genre) )));
+                ViewBag.Json = await Task.Run(() => JsonConvert.SerializeObject(json.
+                  Where(x => x.subjects == SelectSubjects)));
             }
             if (SelectGrades != null)
             {
-                //ViewBag.Json = await Task.Run(() => JsonConvert.SerializeObject(json.
-                //   Where(x => x.grade == SelectGrades)));
+                ViewBag.Json = await Task.Run(() => JsonConvert.SerializeObject(json.
+                   Where(x => x.grade == SelectGrades)));
             }     
             return View();
         }
@@ -77,9 +77,7 @@ namespace Courses.Models
 
             //////Loop and add the Child Nodes.
             foreach (Modules subType in this.Context.Modules)
-            {
-                //var a = JsonConvert.SerializeObject(Context.Courses.Where(x => x.Id == subType.Id).Select(x => x.Grade));
-
+            {         
                 if (subType.ParentId == 0)
                 {
 
@@ -92,7 +90,6 @@ namespace Courses.Models
 
                 }
                 else
-
                     json.Add(new TreeViewNode
                     {
                         id = subType.Id.ToString(),
