@@ -15,27 +15,24 @@ namespace Courses.Models
         public string Subject { get; set; }
         public string Grade { get; set; }
         public string Genre { get; set; }
-
-
     }
-    public class Modules
+    public class Modules 
     {
-        public int Id { get; set; }
-        public int CourseId { get; set; }
-        public int ParentId { get; set; }
-        public int Order { get; set; }
+        public  int Id { get; set; }
+        public  int CourseId { get; set; }
+        public  int ParentId { get; set; }
+        public  int Order { get; set; }
         public string Title { get; set; }
-        public string Num { get; set; }
-
+        public  string Num { get; set; }
     }
     public class TreeViewNode
     {
         public string id { get; set; }
         public string parent { get; set; }
         public string text { get; set; }
+        public string subParent { get; set; }
         public string genre { get; set; }
         public string subjects { get; set; }
         public string grade { get; set; }
-
     }
 }

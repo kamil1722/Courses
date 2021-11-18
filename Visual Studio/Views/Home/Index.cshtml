@@ -1,5 +1,6 @@
-﻿@model Courses
+﻿@model HomeController
 @addTagHelper*, Microsoft.AspNetCore.Mvc.TagHelpers
+
 
 @{
     Layout = null;
@@ -14,20 +15,20 @@
 <body>
     <form asp-controller="Home" asp-antiforgery="true">
         <h>
-            <label asp-for="Genre"></label>
-            <select asp-for="Genre" asp-items="ViewBag.LisGenres">
+            <label asp-for="SelectGenre">Genre</label>
+            <select asp-for="SelectGenre" asp-items="ViewBag.LisGenres">
                 <option value="">All</option>
             </select>
         </h>
         <h>
-            <label asp-for="Subject"></label>
-            <select asp-for="Subject" asp-items="ViewBag.LisSubjects">
+            <label  asp-for="SelectSubjects">Subject</label>
+            <select asp-for="SelectSubjects" asp-items="ViewBag.LisSubjects">
                 <option value="">All</option>
             </select>
         </h>
         <h>
-            <label asp-for="Grade"></label>
-            <select asp-for="Grade" asp-items="ViewBag.ListGrades">
+            <label asp-for="SelectGrades">Grades</label>
+            <select asp-for="SelectGrades" asp-items="ViewBag.ListGrades">
                 <option value="">All</option>
             </select>
         </h>
@@ -35,18 +36,18 @@
             @using (Html.BeginForm())
             {
             <p>
-                Find by name course: @Html.TextBox("SearchString")
+                Find by name course: @Html.TextBox("SearchCourse")
                 <input type="submit" value="Search" />
             </p>
-            }
+        }
 
         </form>
-    <div id="jstree">
-    </div>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js"></script>
-    <script type="text/javascript">
+        <div id="jstree">
+        </div>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/jstree.min.js"></script>
+        <script type="text/javascript">
         $(function () {
             $('#jstree').on('changed.jstree').jstree({
                 "core": {
@@ -58,8 +59,8 @@
                 "plugins": ["sort","wholerow"],
             });
         });
-    </script>
-</body>
+        </script>
+    </body>
 </html>
 
 
