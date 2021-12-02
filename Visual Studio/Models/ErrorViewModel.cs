@@ -28,7 +28,7 @@ namespace Courses.Models
         public string id { get; set; }
         public string parent { get; set; }
         public string text { get; set; }
-        public string subParent { get; set; }
+        //public string subParent { get; set; }
         public string genre { get; set; }
         public string subjects { get; set; }
         public string grade { get; set; }

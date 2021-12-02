@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 
 namespace Courses.Models
 {
-
     public class HomeController : Controller
     {
         private DBCtx Context { get; }
@@ -27,8 +26,8 @@ namespace Courses.Models
         public async Task<IActionResult> Index()
         {
             List<TreeViewNode> json = myJson();
-            //Box attributes
 
+            //Box attributes
             ViewBag.LisGenres = new SelectList(await Context.Courses
                 .Select(x => x.Genre).Distinct().ToListAsync());
             ViewBag.LisSubjects = new SelectList(await Context.Courses
@@ -70,7 +69,7 @@ namespace Courses.Models
                     genre = type.Genre,
                     grade = type.Grade,
                     subjects = type.Subject,
-                    subParent = type.Id.ToString()
+                    //subParent = type.Id.ToString()
                     
                 });
             }
@@ -95,9 +94,8 @@ namespace Courses.Models
                         id = subType.Id.ToString(),
                         parent = subType.ParentId.ToString(),
                         text = subType.Num + "  " + subType.Title,
-                        subParent = subType.CourseId.ToString()
-                    });
-                  
+                        //subParent = subType.CourseId.ToString()
+                    }); 
             }
             return json;
         }
